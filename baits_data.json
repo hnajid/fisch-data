@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Worm",
+    "rarity": "Common",
+    "effect": "Basic attraction",
+    "bestFor": "Common fish",
+    "description": "Simple bait used for early fishing.",
+    "icon": "🪱"
+  },
+  {
+    "name": "Shrimp",
+    "rarity": "Uncommon",
+    "effect": "Better ocean attraction",
+    "bestFor": "Ocean fish",
+    "description": "Improves chances in ocean areas.",
+    "icon": "🦐"
+  },
+  {
+    "name": "Magnet",
+    "rarity": "Rare",
+    "effect": "Find crates & items",
+    "bestFor": "Loot & special drops",
+    "description": "Used to discover hidden items instead of fish.",
+    "icon": "🧲"
+  },
+  {
+    "name": "Truffle Worm",
+    "rarity": "Mythic",
+    "effect": "Huge luck boost",
+    "bestFor": "Rare & mythic fish",
+    "description": "Best bait for high value catches.",
+    "icon": "✨"
+  }
+]
