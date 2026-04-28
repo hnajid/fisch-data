@@ -224,6 +224,83 @@
     "difficulty": "Easy",
     "image": "🦀",
     "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/crab.webp"
+  },
+
+  {
+    "name": "Fading Guppy",
+    "rarity": "Uncommon",
+    "location": "Hades' Underworld of Indefinite",
+    "subLocation": "Unknown",
+    "weather": "Clear",
+    "time": "Night",
+    "season": "Autumn, Winter",
+    "bait": "Insect",
+    "xp": "90",
+    "value": "207.143 C$/kg",
+    "difficulty": "Easy",
+    "image": "🐟",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/fading_guppy.webp"
+  },
+  {
+    "name": "Eternal Frostwhale",
+    "rarity": "Limited",
+    "location": "Golden Tide",
+    "subLocation": "Event",
+    "weather": "Any",
+    "time": "Any",
+    "season": "Event",
+    "bait": "Shark Head",
+    "xp": "8000",
+    "value": "8 C$/kg",
+    "difficulty": "Extreme",
+    "image": "🐋",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/eternal_frostwhale.webp"
+  },
+  {
+    "name": "Electric Eel",
+    "rarity": "Legendary",
+    "location": "Lost Jungle",
+    "subLocation": "Unknown",
+    "weather": "Rain",
+    "time": "Night",
+    "season": "Summer, Autumn",
+    "bait": "Stag Beetle",
+    "xp": "1500",
+    "value": "94.05 C$/kg",
+    "difficulty": "Moderate",
+    "image": "⚡",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/electric_eel.webp"
+  },
+  {
+    "name": "Eel",
+    "rarity": "Unusual",
+    "location": "Moosewood",
+    "subLocation": "Saltwater",
+    "weather": "Any",
+    "time": "Night",
+    "season": "Any",
+    "bait": "None",
+    "xp": "130",
+    "value": "48.222 C$/kg",
+    "difficulty": "Easy",
+    "image": "🐟",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/eel.webp"
+  },
+  {
+    "name": "Crystal Frilled Shark",
+    "rarity": "Legendary",
+    "location": "Crystal Cove",
+    "subLocation": "Unknown",
+    "weather": "Rain",
+    "time": "Night",
+    "season": "Summer",
+    "bait": "Shrimp",
+    "xp": "1200",
+    "value": "0.25 C$/kg",
+    "difficulty": "Extreme",
+    "image": "🦈",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/crystal_frilled_shark.png"
   }
+
 
 ]
