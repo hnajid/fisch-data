@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Moosewood",
+    "type": "Starter Island",
+    "bestFor": "Common fish",
+    "fish": "Sea Bass, Trout, Tilapia",
+    "description": "Main starter area with simple fishing spots and easy catches.",
+    "icon": "🏝️"
+  },
+  {
+    "name": "Roslit Bay",
+    "type": "Bay Area",
+    "bestFor": "Rare fish",
+    "fish": "Sturgeon, rare ocean catches",
+    "description": "A strong fishing area for players looking for better value catches.",
+    "icon": "🌊"
+  },
+  {
+    "name": "Deep Ocean",
+    "type": "Ocean Zone",
+    "bestFor": "Mythic fish",
+    "fish": "Swordfish, Mythic Shark",
+    "description": "A deeper fishing zone with higher risk and better rewards.",
+    "icon": "🐋"
+  },
+  {
+    "name": "Secret Lake",
+    "type": "Hidden Spot",
+    "bestFor": "Special fish",
+    "fish": "Golden Fish, rare variants",
+    "description": "A hidden-style location for special and valuable catches.",
+    "icon": "✨"
+  }
+]
