@@ -1,122 +1,77 @@
 [
   {
-    "name": "Sea Bass",
-    "rarity": "Common",
-    "price": 45,
-    "location": "Moosewood",
-    "image": "🐟",
-    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/sea_bass.png"
-  },
-  {
-    "name": "Trout",
-    "rarity": "Common",
-    "price": 40,
-    "location": "Moosewood",
-    "image": "🐟",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/trout.png"
-  },
-  {
-    "name": "Tilapia",
-    "rarity": "Common",
-    "price": 35,
-    "location": "Moosewood",
-    "image": "🐟",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/tilapia.png"
-  },
-  {
-    "name": "Catfish",
-    "rarity": "Uncommon",
-    "price": 90,
-    "location": "River",
-    "image": "🐟",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/catfish.png"
-  },
-  {
-    "name": "Salmon",
-    "rarity": "Uncommon",
-    "price": 110,
-    "location": "River",
-    "image": "🐟",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/salmon.png"
-  },
-  {
-    "name": "Tuna",
-    "rarity": "Uncommon",
-    "price": 130,
-    "location": "Ocean",
-    "image": "🐟",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/tuna.png"
-  },
-  {
-    "name": "Sturgeon",
-    "rarity": "Rare",
-    "price": 250,
-    "location": "Roslit Bay",
-    "image": "🐟",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/sturgeon.png"
-  },
-  {
     "name": "Barracuda",
-    "rarity": "Rare",
-    "price": 300,
-    "location": "Ocean",
-    "image": "🐟",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/barracuda.png"
-  },
-  {
-    "name": "Swordfish",
-    "rarity": "Rare",
-    "price": 420,
-    "location": "Deep Ocean",
-    "image": "🐟",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/swordfish.png"
-  },
-  {
-    "name": "Shark",
-    "rarity": "Rare",
-    "price": 600,
-    "location": "Deep Ocean",
-    "image": "🦈",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/shark.png"
-  },
-  {
-    "name": "Golden Fish",
-    "rarity": "Mythic",
-    "price": 1200,
-    "location": "Secret Lake",
-    "image": "✨",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/golden_fish.png"
-  },
-  {
-    "name": "Mythic Shark",
-    "rarity": "Mythic",
-    "price": 2000,
-    "location": "Deep Ocean",
-    "image": "🦈",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/mythic_shark.png"
-  },
-  {
-    "name": "Electric Eel",
-    "rarity": "Rare",
-    "price": 350,
-    "location": "River",
-    "image": "⚡",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/electric_eel.png"
-  },
-  {
-    "name": "Crab",
-    "rarity": "Common",
-    "price": 25,
-    "location": "Beach",
-    "image": "🦀",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/crab.png"
-  },
-  {
-    "name": "Lobster",
     "rarity": "Uncommon",
-    "price": 95,
     "location": "Ocean",
-    "image": "🦞",
-    "imageURL": "https://static.wikia.nocookie.net/fisch/images/lobster.png"
+    "subLocation": "Deep Ocean",
+    "weather": "Any",
+    "time": "Day",
+    "season": "Any",
+    "bait": "Worm",
+    "xp": "70",
+    "value": "10.091 C$/kg",
+    "difficulty": "Easy",
+    "image": "🐟",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/barracuda.webp"
+  },
+  {
+    "name": "Azure Prowler",
+    "rarity": "Extinct",
+    "location": "Second Sea",
+    "subLocation": "Azure Lagoon",
+    "weather": "Clear",
+    "time": "Night",
+    "season": "Autumn",
+    "bait": "Mist Worms",
+    "xp": "905",
+    "value": "7.292 C$/kg",
+    "difficulty": "Extreme",
+    "image": "🐟",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/azure_prowler.webp"
+  },
+  {
+    "name": "Anchovy",
+    "rarity": "Common",
+    "location": "Moosewood",
+    "subLocation": "Saltwater",
+    "weather": "Clear",
+    "time": "Day",
+    "season": "Spring",
+    "bait": "None",
+    "xp": "30",
+    "value": "166.667 C$/kg",
+    "difficulty": "Very Easy",
+    "image": "🐟",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/anchovy.webp"
+  },
+  {
+    "name": "Amblypterus",
+    "rarity": "Mythical",
+    "location": "Ancient Archives",
+    "subLocation": "Unknown",
+    "weather": "Any",
+    "time": "Day",
+    "season": "Any",
+    "bait": "Fish Head",
+    "xp": "2420",
+    "value": "16.839 C$/kg",
+    "difficulty": "Hard",
+    "image": "🐟",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/amblypterus.webp"
+  },
+  {
+    "name": "Algae Lurker",
+    "rarity": "Extinct",
+    "location": "Second Sea",
+    "subLocation": "Azure Lagoon",
+    "weather": "Clear",
+    "time": "Day",
+    "season": "Spring",
+    "bait": "Squid",
+    "xp": "245",
+    "value": "2.833 C$/kg",
+    "difficulty": "Hard",
+    "image": "🐟",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/algae_lurker.webp"
   }
 ]
