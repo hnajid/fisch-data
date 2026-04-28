@@ -1,25 +1,122 @@
 [
-  {"name":"Sea Bass","rarity":"Common","price":45,"location":"Moosewood","image":"fish_sea_bass"},
-  {"name":"Trout","rarity":"Common","price":60,"location":"Moosewood Pond","image":"fish_trout"},
-  {"name":"Carp","rarity":"Common","price":55,"location":"River","image":"fish_carp"},
-  {"name":"Sardine","rarity":"Common","price":30,"location":"Ocean","image":"fish_sardine"},
-  {"name":"Anchovy","rarity":"Common","price":25,"location":"Ocean","image":"fish_anchovy"},
-  
-  {"name":"Pufferfish","rarity":"Uncommon","price":140,"location":"Ocean","image":"fish_pufferfish"},
-  {"name":"Salmon","rarity":"Uncommon","price":160,"location":"River","image":"fish_salmon"},
-  {"name":"Catfish","rarity":"Uncommon","price":150,"location":"Lake","image":"fish_catfish"},
-  {"name":"Tilapia","rarity":"Uncommon","price":135,"location":"Moosewood","image":"fish_tilapia"},
-  {"name":"Eel","rarity":"Uncommon","price":170,"location":"Deep River","image":"fish_eel"},
-  
-  {"name":"Sturgeon","rarity":"Rare","price":480,"location":"Roslit Bay","image":"fish_sturgeon"},
-  {"name":"Tuna","rarity":"Rare","price":520,"location":"Ocean","image":"fish_tuna"},
-  {"name":"Swordfish","rarity":"Rare","price":600,"location":"Deep Ocean","image":"fish_swordfish"},
-  {"name":"Barracuda","rarity":"Rare","price":550,"location":"Ocean","image":"fish_barracuda"},
-  {"name":"Mahi Mahi","rarity":"Rare","price":530,"location":"Tropical Waters","image":"fish_mahi"},
-  
-  {"name":"Mythic Shark","rarity":"Mythic","price":2500,"location":"Deep Ocean","image":"fish_mythic_shark"},
-  {"name":"Golden Fish","rarity":"Mythic","price":3000,"location":"Secret Lake","image":"fish_golden"},
-  {"name":"Phantom Eel","rarity":"Mythic","price":2800,"location":"Dark Waters","image":"fish_phantom"},
-  {"name":"Crystal Carp","rarity":"Mythic","price":2700,"location":"Frozen Lake","image":"fish_crystal"},
-  {"name":"Lava Fish","rarity":"Mythic","price":3200,"location":"Volcanic Area","image":"fish_lava"}
+  {
+    "name": "Sea Bass",
+    "rarity": "Common",
+    "price": 45,
+    "location": "Moosewood",
+    "image": "🐟",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/sea_bass.png"
+  },
+  {
+    "name": "Trout",
+    "rarity": "Common",
+    "price": 40,
+    "location": "Moosewood",
+    "image": "🐟",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/trout.png"
+  },
+  {
+    "name": "Tilapia",
+    "rarity": "Common",
+    "price": 35,
+    "location": "Moosewood",
+    "image": "🐟",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/tilapia.png"
+  },
+  {
+    "name": "Catfish",
+    "rarity": "Uncommon",
+    "price": 90,
+    "location": "River",
+    "image": "🐟",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/catfish.png"
+  },
+  {
+    "name": "Salmon",
+    "rarity": "Uncommon",
+    "price": 110,
+    "location": "River",
+    "image": "🐟",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/salmon.png"
+  },
+  {
+    "name": "Tuna",
+    "rarity": "Uncommon",
+    "price": 130,
+    "location": "Ocean",
+    "image": "🐟",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/tuna.png"
+  },
+  {
+    "name": "Sturgeon",
+    "rarity": "Rare",
+    "price": 250,
+    "location": "Roslit Bay",
+    "image": "🐟",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/sturgeon.png"
+  },
+  {
+    "name": "Barracuda",
+    "rarity": "Rare",
+    "price": 300,
+    "location": "Ocean",
+    "image": "🐟",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/barracuda.png"
+  },
+  {
+    "name": "Swordfish",
+    "rarity": "Rare",
+    "price": 420,
+    "location": "Deep Ocean",
+    "image": "🐟",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/swordfish.png"
+  },
+  {
+    "name": "Shark",
+    "rarity": "Rare",
+    "price": 600,
+    "location": "Deep Ocean",
+    "image": "🦈",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/shark.png"
+  },
+  {
+    "name": "Golden Fish",
+    "rarity": "Mythic",
+    "price": 1200,
+    "location": "Secret Lake",
+    "image": "✨",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/golden_fish.png"
+  },
+  {
+    "name": "Mythic Shark",
+    "rarity": "Mythic",
+    "price": 2000,
+    "location": "Deep Ocean",
+    "image": "🦈",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/mythic_shark.png"
+  },
+  {
+    "name": "Electric Eel",
+    "rarity": "Rare",
+    "price": 350,
+    "location": "River",
+    "image": "⚡",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/electric_eel.png"
+  },
+  {
+    "name": "Crab",
+    "rarity": "Common",
+    "price": 25,
+    "location": "Beach",
+    "image": "🦀",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/crab.png"
+  },
+  {
+    "name": "Lobster",
+    "rarity": "Uncommon",
+    "price": 95,
+    "location": "Ocean",
+    "image": "🦞",
+    "imageURL": "https://static.wikia.nocookie.net/fisch/images/lobster.png"
+  }
 ]
