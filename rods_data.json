@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Flimsy Rod",
+    "rarity": "Common",
+    "price": 0,
+    "luck": "Low",
+    "lureSpeed": "Slow",
+    "control": "Low",
+    "resilience": "Low",
+    "maxKg": "50kg",
+    "description": "Starter rod, weak but useful early game.",
+    "icon": "🎣"
+  },
+  {
+    "name": "Carbon Rod",
+    "rarity": "Uncommon",
+    "price": 850,
+    "luck": "Medium",
+    "lureSpeed": "Medium",
+    "control": "Medium",
+    "resilience": "Medium",
+    "maxKg": "120kg",
+    "description": "Good upgrade for early progression.",
+    "icon": "⚡️"
+  },
+  {
+    "name": "Reinforced Rod",
+    "rarity": "Rare",
+    "price": 3500,
+    "luck": "High",
+    "lureSpeed": "Fast",
+    "control": "High",
+    "resilience": "High",
+    "maxKg": "250kg",
+    "description": "Balanced rod with strong performance.",
+    "icon": "🛠️"
+  },
+  {
+    "name": "Mythical Rod",
+    "rarity": "Mythic",
+    "price": 12000,
+    "luck": "Very High",
+    "lureSpeed": "Very Fast",
+    "control": "Very High",
+    "resilience": "Very High",
+    "maxKg": "500kg",
+    "description": "Best rod for rare and valuable fish.",
+    "icon": "💎"
+  }
+]
