@@ -1,0 +1,25 @@
+[
+  {"name":"Sea Bass","rarity":"Common","price":45,"location":"Moosewood","image":"fish_sea_bass"},
+  {"name":"Trout","rarity":"Common","price":60,"location":"Moosewood Pond","image":"fish_trout"},
+  {"name":"Carp","rarity":"Common","price":55,"location":"River","image":"fish_carp"},
+  {"name":"Sardine","rarity":"Common","price":30,"location":"Ocean","image":"fish_sardine"},
+  {"name":"Anchovy","rarity":"Common","price":25,"location":"Ocean","image":"fish_anchovy"},
+  
+  {"name":"Pufferfish","rarity":"Uncommon","price":140,"location":"Ocean","image":"fish_pufferfish"},
+  {"name":"Salmon","rarity":"Uncommon","price":160,"location":"River","image":"fish_salmon"},
+  {"name":"Catfish","rarity":"Uncommon","price":150,"location":"Lake","image":"fish_catfish"},
+  {"name":"Tilapia","rarity":"Uncommon","price":135,"location":"Moosewood","image":"fish_tilapia"},
+  {"name":"Eel","rarity":"Uncommon","price":170,"location":"Deep River","image":"fish_eel"},
+  
+  {"name":"Sturgeon","rarity":"Rare","price":480,"location":"Roslit Bay","image":"fish_sturgeon"},
+  {"name":"Tuna","rarity":"Rare","price":520,"location":"Ocean","image":"fish_tuna"},
+  {"name":"Swordfish","rarity":"Rare","price":600,"location":"Deep Ocean","image":"fish_swordfish"},
+  {"name":"Barracuda","rarity":"Rare","price":550,"location":"Ocean","image":"fish_barracuda"},
+  {"name":"Mahi Mahi","rarity":"Rare","price":530,"location":"Tropical Waters","image":"fish_mahi"},
+  
+  {"name":"Mythic Shark","rarity":"Mythic","price":2500,"location":"Deep Ocean","image":"fish_mythic_shark"},
+  {"name":"Golden Fish","rarity":"Mythic","price":3000,"location":"Secret Lake","image":"fish_golden"},
+  {"name":"Phantom Eel","rarity":"Mythic","price":2800,"location":"Dark Waters","image":"fish_phantom"},
+  {"name":"Crystal Carp","rarity":"Mythic","price":2700,"location":"Frozen Lake","image":"fish_crystal"},
+  {"name":"Lava Fish","rarity":"Mythic","price":3200,"location":"Volcanic Area","image":"fish_lava"}
+]
