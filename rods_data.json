@@ -9,7 +9,7 @@
     "resilience": "Low",
     "maxKg": "50kg",
     "description": "Starter rod, weak but useful early game.",
-    "icon": "🎣"
+    "imageURL": "https://static.wikitide.net/fischwiki/e/e5/Flimsy_Rod.png"
   },
   {
     "name": "Carbon Rod",
