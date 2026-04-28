@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Rowboat",
+    "rarity": "Common",
+    "speed": "Slow",
+    "price": 0,
+    "bestFor": "Short travel",
+    "description": "Basic starter boat for small distances.",
+    "icon": "🚣"
+  },
+  {
+    "name": "Speedboat",
+    "rarity": "Uncommon",
+    "speed": "Fast",
+    "price": 2500,
+    "bestFor": "Fast travel",
+    "description": "Good for moving quickly between islands.",
+    "icon": "🚤"
+  },
+  {
+    "name": "Fishing Boat",
+    "rarity": "Rare",
+    "speed": "Medium",
+    "price": 5000,
+    "bestFor": "Fishing routes",
+    "description": "Stable and efficient for long fishing sessions.",
+    "icon": "⛵️"
+  },
+  {
+    "name": "Luxury Boat",
+    "rarity": "Mythic",
+    "speed": "Very Fast",
+    "price": 15000,
+    "bestFor": "Premium travel",
+    "description": "High-end boat with smooth and fast movement.",
+    "icon": "🛥️"
+  }
+]
