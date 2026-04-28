@@ -5,7 +5,7 @@
     "price": 45,
     "location": "Moosewood",
     "image": "🐟",
-    "imageURL": "https://static.wikitide.net/fischwiki/thumb/3/35/Sea_Bass.png/"
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/fish/sea_bass.png"
   },
   {
     "name": "Trout",
