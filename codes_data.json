@@ -1,0 +1,5 @@
+[
+  { "code": "WELCOME", "reward": "Free rewards", "status": "Active" },
+  { "code": "FISCHING", "reward": "Coins boost", "status": "Active" },
+  { "code": "UPDATE", "reward": "Special gift", "status": "Active" }
+]
