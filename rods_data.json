@@ -1,16 +1,12 @@
 [
   {
-    "name": "Flimsy Rod",
-    "rarity": "Common",
-    "price": 0,
-    "luck": "Low",
-    "lureSpeed": "Slow",
-    "control": "Low",
-    "resilience": "Low",
-    "maxKg": "50kg",
-    "description": "Starter rod, weak but useful early game.",
-    "imageURL": "https://static.wikitide.net/fischwiki/e/e5/Flimsy_Rod.png"
-  },
+  "name": "Sea Bass",
+  "rarity": "Common",
+  "price": 45,
+  "location": "Moosewood",
+  "image": "🐟",
+  "imageURL": "https://static.wikitide.net/fischwiki/thumb/3/35/Sea_Bass.png/250px-Sea_Bass.png"
+},
   {
     "name": "Carbon Rod",
     "rarity": "Uncommon",
