@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Golden",
+    "rarity": "Rare",
+    "multiplier": "x2 Value",
+    "effect": "Increases fish value",
+    "bestFor": "Profit farming",
+    "description": "Golden fish are more valuable and sell for higher prices.",
+    "icon": "🏆"
+  },
+  {
+    "name": "Shiny",
+    "rarity": "Uncommon",
+    "multiplier": "x1.5 Value",
+    "effect": "Visual rarity boost",
+    "bestFor": "Collection",
+    "description": "Shiny fish have a special look and higher value.",
+    "icon": "✨"
+  },
+  {
+    "name": "Big",
+    "rarity": "Rare",
+    "multiplier": "x1.8 Size",
+    "effect": "Increases fish size",
+    "bestFor": "Weight-based rewards",
+    "description": "Bigger fish means higher rewards depending on weight.",
+    "icon": "🐋"
+  },
+  {
+    "name": "Sparkling",
+    "rarity": "Mythic",
+    "multiplier": "x3 Value",
+    "effect": "Rare glowing effect",
+    "bestFor": "Rare hunting",
+    "description": "Extremely rare mutation with huge rewards.",
+    "icon": "💫"
+  }
+]
