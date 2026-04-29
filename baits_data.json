@@ -1,34 +1,112 @@
 [
   {
-    "name": "Worm",
-    "rarity": "Common",
-    "effect": "Basic attraction",
-    "bestFor": "Common fish",
-    "description": "Simple bait used for early fishing.",
-    "icon": "🪱"
+    "name": "Squid",
+    "type": "Bait",
+    "rarity": "Unusual",
+    "sources": ["Bait Crate", "Common Crate", "Quality Bait Crate"],
+    "preferredLuck": "105%",
+    "universalLuck": "45%",
+    "resilience": null,
+    "lureSpeed": "-25%",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/squid.png"
   },
   {
-    "name": "Shrimp",
-    "rarity": "Uncommon",
-    "effect": "Better ocean attraction",
-    "bestFor": "Ocean fish",
-    "description": "Improves chances in ocean areas.",
-    "icon": "🦐"
+    "name": "Seaweed",
+    "type": "Bait",
+    "rarity": "Unusual",
+    "sources": ["Bait Crate", "Common Crate", "Metal Strongbox", "Quality Bait Crate"],
+    "preferredLuck": "95%",
+    "universalLuck": null,
+    "resilience": "10%",
+    "lureSpeed": "20%",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/seaweed.png"
+  },
+  {
+    "name": "Minnow",
+    "type": "Bait",
+    "rarity": "Unusual",
+    "sources": ["Bait Crate", "Common Crate", "Coral Geode", "Volcanic Geode"],
+    "preferredLuck": "115%",
+    "universalLuck": null,
+    "resilience": "-10%",
+    "lureSpeed": null,
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/minnow.png"
   },
   {
     "name": "Magnet",
-    "rarity": "Rare",
-    "effect": "Find crates & items",
-    "bestFor": "Loot & special drops",
-    "description": "Used to discover hidden items instead of fish.",
-    "icon": "🧲"
+    "type": "Bait",
+    "rarity": "Unusual",
+    "sources": ["Bait Crate", "Common Crate", "Metal Strongbox"],
+    "preferredLuck": "200%",
+    "universalLuck": null,
+    "resilience": null,
+    "lureSpeed": null,
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/magnet.png"
   },
   {
-    "name": "Truffle Worm",
-    "rarity": "Mythic",
-    "effect": "Huge luck boost",
-    "bestFor": "Rare & mythic fish",
-    "description": "Best bait for high value catches.",
-    "icon": "✨"
+    "name": "Ember Berries",
+    "type": "Bait",
+    "rarity": "Unusual",
+    "sources": ["Tropical Bait Crate"],
+    "preferredLuck": "120%",
+    "universalLuck": "45%",
+    "resilience": "15%",
+    "lureSpeed": "5%",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/ember_berries.png"
+  },
+  {
+    "name": "Lushrooms",
+    "type": "Bait",
+    "rarity": "Common",
+    "sources": ["Tropical Bait Crate"],
+    "preferredLuck": "100%",
+    "universalLuck": "20%",
+    "resilience": "10%",
+    "lureSpeed": "10%",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/lushrooms.png"
+  },
+  {
+    "name": "Worm",
+    "type": "Bait",
+    "rarity": "Common",
+    "sources": ["Bait Crate", "Common Crate", "Metal Strongbox"],
+    "preferredLuck": "75%",
+    "universalLuck": null,
+    "resilience": null,
+    "lureSpeed": "15%",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/worm.png"
+  },
+  {
+    "name": "Maggot",
+    "type": "Bait",
+    "rarity": "Uncommon",
+    "sources": ["Bait Crate", "Common Crate", "Coral Geode", "Quality Bait Crate", "Volcanic Geode"],
+    "preferredLuck": "80%",
+    "universalLuck": "35%",
+    "resilience": null,
+    "lureSpeed": "-10%",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/maggot.png"
+  },
+  {
+    "name": "Shrimp",
+    "type": "Bait",
+    "rarity": "Uncommon",
+    "sources": ["Bait Crate", "Common Crate"],
+    "preferredLuck": "95%",
+    "universalLuck": "25%",
+    "resilience": "-5%",
+    "lureSpeed": null,
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/shrimp.png"
+  },
+  {
+    "name": "Coral",
+    "type": "Bait",
+    "rarity": "Unusual",
+    "sources": ["Coral Geode", "Metal Strongbox"],
+    "preferredLuck": "100%",
+    "universalLuck": null,
+    "resilience": "20%",
+    "lureSpeed": "20%",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/coral.png"
   }
 ]
