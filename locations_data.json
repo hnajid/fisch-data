@@ -3,70 +3,77 @@
     "name": "Lost Jungle",
     "sea": "First Sea",
     "gps": "-2680, 154, -2078",
-    "image": "lostjungle.png",
-    "description": "Dense jungle area with multiple sublocations and puzzles."
+    "description": "Dense jungle area with multiple sublocations and puzzles.",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/locations/lostjungle.png"
   },
   {
     "name": "Grand Reef",
     "sea": "First Sea",
     "gps": "-3530, 130, 550",
-    "image": "grandreef.png",
-    "description": "Ocean reef with storms and special fishing zones."
+    "description": "Ocean reef with storms and special fishing zones.",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/locations/grandreef.png"
   },
   {
     "name": "Forsaken Shores",
     "sea": "First Sea",
     "gps": "-2425, 135, 1555",
-    "image": "forsakenshores.png",
-    "description": "Pirate-themed island with caves and hidden areas."
+    "description": "Pirate-themed island with caves and hidden areas.",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/locations/forsakenfar.png"
   },
   {
     "name": "Desolate Deep",
     "sea": "First Sea",
     "gps": "-790, 125, -3100",
-    "image": "desolatepocket.png",
-    "description": "Dangerous deep-sea cave system with mines."
+    "description": "Dangerous deep-sea cave system with mines.",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/locations/desolatepocket.png"
   },
   {
     "name": "Cursed Isle",
     "sea": "First Sea",
     "gps": "1860, 135, 1210",
-    "image": "cursedisle.png",
-    "description": "Foggy mysterious island with rare encounters."
+    "description": "Foggy mysterious island with rare encounters.",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/locations/cursedisle.png"
   },
   {
     "name": "Castaway Cliffs",
     "sea": "First Sea",
     "gps": "690, 135, -1693",
-    "image": "castaway_cliffs.png",
-    "description": "Cliff island with NPCs and quests."
+    "description": "Cliff island with NPCs and quests.",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/locations/castaway_cliffs.png"
   },
   {
     "name": "Mariana's Veil",
     "sea": "First Sea",
     "gps": "-1500, 125, 530",
-    "image": "mariana_veil.png",
-    "description": "Deep cave system requiring submarine access."
+    "description": "Deep cave system requiring submarine access.",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/locations/mariana_veil.png"
   },
   {
     "name": "Boreal Pines",
     "sea": "First Sea",
     "gps": "21400, 135, 4123",
-    "image": "boreal_pines.png",
-    "description": "Snowy biome with freezing conditions."
+    "description": "Snowy biome with freezing conditions.",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/locations/boreal_pines.png"
   },
   {
     "name": "Atlantis",
     "sea": "First Sea",
     "gps": "-4300, -580, 1800",
-    "image": "atlantis.png",
-    "description": "Endgame underwater city with puzzles."
+    "description": "Endgame underwater city with puzzles.",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/locations/atlantis.png"
   },
   {
     "name": "Personal Aquarium",
     "sea": "Private",
     "gps": "3699, 4252, 2999",
-    "image": "personal_aquarium.png",
-    "description": "Player-owned aquarium for profits."
+    "description": "Player-owned aquarium for fish display and profits.",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/locations/personal_aquarium.png"
+  },
+  {
+    "name": "Ancient Isles Far",
+    "sea": "First Sea",
+    "gps": "Unknown",
+    "description": "Far ancient island area used for exploration.",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/locations/ancientIslesfar.png"
   }
 ]
