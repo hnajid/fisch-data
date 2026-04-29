@@ -98,5 +98,44 @@
     "acceleration": "0.22 S/ps",
     "seats": "5",
     "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/boats/bass_boat.png"
+  },
+  {
+
+    "name": "Surfboard",
+
+    "price": "1,500C$",
+
+    "level": "7",
+
+    "speed": "30 S/ps",
+
+    "steering": "50°",
+
+    "acceleration": "0.2 S/ps",
+
+    "seats": "1",
+
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/boats/surfboard.png"
+
+  },
+
+  {
+
+    "name": "Rowboat",
+
+    "price": "400C$",
+
+    "level": "1",
+
+    "speed": "25 S/ps",
+
+    "steering": "40°",
+
+    "acceleration": "0.15 S/ps",
+
+    "seats": "4",
+
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/boats/rowboat.png"
+
   }
 ]
