@@ -282,7 +282,7 @@
     "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/rods/arctic_rod.png"
   },
   {
-    "name": "Apollo's Sunshot",
+    "name": "Apollo Sunshot",
     "location": "Apollo's Song of Light",
     "source": "Purchasing",
     "price": "17,500,000C$",
@@ -314,7 +314,7 @@
     "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/rods/antler_rod.png"
   },
   {
-    "name": "Anchor n' Chain",
+    "name": "Anchor n Chain",
     "location": "Tidefall",
     "source": "Crafting",
     "price": "5,000C$",
@@ -332,7 +332,7 @@
 
   {
 
-    "name": "Adventurer's Rod",
+    "name": "Adventurer Rod",
     "location": "Limited",
     "source": "Joining Second Sea",
     "price": "Free",
