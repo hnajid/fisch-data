@@ -1,34 +1,72 @@
 [
   {
-    "name": "Moosewood",
-    "type": "Starter Island",
-    "bestFor": "Common fish",
-    "fish": "Sea Bass, Trout, Tilapia",
-    "description": "Main starter area with simple fishing spots and easy catches.",
-    "icon": "🏝️"
+    "name": "Lost Jungle",
+    "sea": "First Sea",
+    "gps": "-2680, 154, -2078",
+    "image": "lostjungle.png",
+    "description": "Dense jungle area with multiple sublocations and puzzles."
   },
   {
-    "name": "Roslit Bay",
-    "type": "Bay Area",
-    "bestFor": "Rare fish",
-    "fish": "Sturgeon, rare ocean catches",
-    "description": "A strong fishing area for players looking for better value catches.",
-    "icon": "🌊"
+    "name": "Grand Reef",
+    "sea": "First Sea",
+    "gps": "-3530, 130, 550",
+    "image": "grandreef.png",
+    "description": "Ocean reef with storms and special fishing zones."
   },
   {
-    "name": "Deep Ocean",
-    "type": "Ocean Zone",
-    "bestFor": "Mythic fish",
-    "fish": "Swordfish, Mythic Shark",
-    "description": "A deeper fishing zone with higher risk and better rewards.",
-    "icon": "🐋"
+    "name": "Forsaken Shores",
+    "sea": "First Sea",
+    "gps": "-2425, 135, 1555",
+    "image": "forsakenshores.png",
+    "description": "Pirate-themed island with caves and hidden areas."
   },
   {
-    "name": "Secret Lake",
-    "type": "Hidden Spot",
-    "bestFor": "Special fish",
-    "fish": "Golden Fish, rare variants",
-    "description": "A hidden-style location for special and valuable catches.",
-    "icon": "✨"
+    "name": "Desolate Deep",
+    "sea": "First Sea",
+    "gps": "-790, 125, -3100",
+    "image": "desolatepocket.png",
+    "description": "Dangerous deep-sea cave system with mines."
+  },
+  {
+    "name": "Cursed Isle",
+    "sea": "First Sea",
+    "gps": "1860, 135, 1210",
+    "image": "cursedisle.png",
+    "description": "Foggy mysterious island with rare encounters."
+  },
+  {
+    "name": "Castaway Cliffs",
+    "sea": "First Sea",
+    "gps": "690, 135, -1693",
+    "image": "castaway_cliffs.png",
+    "description": "Cliff island with NPCs and quests."
+  },
+  {
+    "name": "Mariana's Veil",
+    "sea": "First Sea",
+    "gps": "-1500, 125, 530",
+    "image": "mariana_veil.png",
+    "description": "Deep cave system requiring submarine access."
+  },
+  {
+    "name": "Boreal Pines",
+    "sea": "First Sea",
+    "gps": "21400, 135, 4123",
+    "image": "boreal_pines.png",
+    "description": "Snowy biome with freezing conditions."
+  },
+  {
+    "name": "Atlantis",
+    "sea": "First Sea",
+    "gps": "-4300, -580, 1800",
+    "image": "atlantis.png",
+    "description": "Endgame underwater city with puzzles."
+  },
+  {
+    "name": "Personal Aquarium",
+    "sea": "Private",
+    "gps": "3699, 4252, 2999",
+    "image": "personal_aquarium.png",
+    "description": "Player-owned aquarium for profits."
   }
 ]
