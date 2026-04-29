@@ -108,5 +108,74 @@
     "resilience": "20%",
     "lureSpeed": "20%",
     "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/coral.png"
+  },
+  {
+
+    "name": "Insect",
+    "type": "Bait",
+    "rarity": "Common",
+    "sources": ["Bait Crate", "Common Crate"],
+    "preferredLuck": "75%",
+    "universalLuck": null,
+    "resilience": null,
+    "lureSpeed": "5%",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/insect.png"
+
+  },
+
+  {
+
+    "name": "Garbage",
+    "type": "Bait",
+    "rarity": "Common",
+    "sources": ["Bait Crate", "Metal Strongbox"],
+    "preferredLuck": null,
+    "universalLuck": "-500%",
+    "resilience": "50%",
+    "lureSpeed": "-5%",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/garbage.png"
+
+  },
+
+  {
+
+    "name": "Gale Grub",
+    "type": "Bait",
+    "rarity": "Common",
+    "sources": ["Tropical Bait Crate"],
+    "preferredLuck": "85%",
+    "universalLuck": "-10%",
+    "resilience": "-5%",
+    "lureSpeed": "30%",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/gale_grub.png"
+
+  },
+
+  {
+
+    "name": "Flakes",
+    "type": "Bait",
+    "rarity": "Common",
+    "sources": ["Bait Crate", "Common Crate"],
+    "preferredLuck": "85%",
+    "universalLuck": null,
+    "resilience": "-3%",
+    "lureSpeed": "10%",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/flakes.png"
+
+  },
+
+  {
+
+    "name": "Bagel",
+    "type": "Bait",
+    "rarity": "Common",
+    "sources": ["Bait Crate", "Common Crate"],
+    "preferredLuck": "75%",
+    "universalLuck": null,
+    "resilience": "15%",
+    "lureSpeed": null,
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/baits/bagel.png"
+
   }
 ]
