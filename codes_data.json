@@ -1,5 +1,18 @@
 [
   { "code": "WELCOME", "reward": "Free rewards", "status": "Active" },
   { "code": "FISCHING", "reward": "Coins boost", "status": "Active" },
-  { "code": "UPDATE", "reward": "Special gift", "status": "Active" }
+  { "code": "UPDATE", "reward": "Special gift", "status": "Active" },
+
+  { "code": "RELEASE", "reward": "500 Coins", "status": "Active" },
+  { "code": "OCEAN2026", "reward": "Luck Boost (10 min)", "status": "Active" },
+  { "code": "BIGCATCH", "reward": "1,000 Coins", "status": "Active" },
+  { "code": "RAREHUNT", "reward": "Rare Fish Chance Boost", "status": "Active" },
+  { "code": "GOLDENHOOK", "reward": "Golden Bait", "status": "Active" },
+
+  { "code": "SUMMERSEA", "reward": "Speed Boost (Boat)", "status": "Active" },
+  { "code": "DEEPDIVE", "reward": "Diving Gear Bonus", "status": "Active" },
+  { "code": "TREASURE", "reward": "Mystery Chest", "status": "Active" },
+
+  { "code": "OLDFISH", "reward": "100 Coins", "status": "Expired" },
+  { "code": "BETA", "reward": "Starter Pack", "status": "Expired" }
 ]
