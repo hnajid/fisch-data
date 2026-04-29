@@ -308,7 +308,7 @@
     "lineDistance": "30m",
     "durability": null,
     "passive": "Charge meter system boosts fishing speed and passive gain",
-    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/rods/apollo's_sunshot.png"
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/rods/apollo_s_sunshot.png"
   },
   {
     "name": "Antler Rod",
@@ -358,7 +358,7 @@
     "lineDistance": "19m",
     "durability": null,
     "passive": "+5% natural Mutation chance",
-    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/rods/adventurer's_rod.png"
+    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/rods/adventurer_s_rod.png"
 
   },
 
