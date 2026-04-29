@@ -28,7 +28,7 @@
     "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/rods/bone_blade.png"
   },
   {
-    "name": "Bloomspire: Blooming Splendor",
+    "name": "Bloomspire Blooming Splendor",
     "location": "Living Garden",
     "source": "Living Lotus",
     "price": "Unknown",
@@ -84,7 +84,7 @@
     "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/rods/blade_of_glorp.png"
   },
   {
-    "name": "Bellona's Waraxe",
+    "name": "Bellona Waraxe",
     "location": "Bellona's Frenzy of War",
     "source": "100% Bestiary",
     "price": "5000000 C$",
@@ -153,20 +153,7 @@
     "lineDistance": "100m",
     "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/rods/blade_of_glorp.png"
   },
-  {
-    "name": "Bellona's Waraxe",
-    "location": "Bellona's Frenzy of War",
-    "source": "100% Bestiary",
-    "price": "5000000 C$",
-    "stage": "Stage 8",
-    "lureSpeed": "65%",
-    "luck": "150%",
-    "control": "0.2",
-    "resilience": "40%",
-    "maxKg": "1000000kg",
-    "lineDistance": "30m",
-    "imageURL": "https://raw.githubusercontent.com/hnajid/fisch-data/main/images/rods/bellona_waraxe.png"
-  },
+  
   {
     "name": "Bat Whisperer Rod",
     "location": "Limited",
